@@ -1,0 +1,10 @@
+Class=+, Length=3, Gills=no, Beak=yes, Teeth=many
+Class=+, Length=4, Gills=no, Beak=yes, Teeth=many
+Class=+, Length=3, Gills=no, Beak=yes, Teeth=few
+Class=+, Length=5, Gills=no, Beak=yes, Teeth=many
+Class=+, Length=5, Gills=no, Beak=yes, Teeth=few
+Class=-, Length=5, Gills=yes, Beak=yes, Teeth=many
+Class=-, Length=4, Gills=yes, Beak=yes, Teeth=many
+Class=-, Length=5, Gills=yes, Beak=no, Teeth=many
+Class=-, Length=4, Gills=yes, Beak=no, Teeth=many
+Class=-, Length=4, Gills=no, Beak=yes, Teeth=few
